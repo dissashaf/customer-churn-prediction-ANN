@@ -1,5 +1,4 @@
 # **Customer Churn Prediction**
-`Raden Dissa Shafira`
 
 **External link:** [Model Deployment](https://huggingface.co/spaces/Dissashaf/customer-churn)
 ### Introduction
