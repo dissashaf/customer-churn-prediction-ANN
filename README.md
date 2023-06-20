@@ -1,5 +1,7 @@
 # **Customer Churn Prediction**
 `Raden Dissa Shafira`
+
+**External link:** [Model Deployment](https://huggingface.co/spaces/Dissashaf/customer-churn)
 ### Introduction
 Perusahaan-perusahaan modern kini semakin menyadari pentingnya mempertahankan pelanggan. Pasalnya, pelanggan yang "loyal" akan menghemat biaya promosi dan menciptakan kondisi kestabilan finansial yag lebih baik. Keberhasilan suatu perusahaan dalam mempertahankan pelanggan akan berdampak positif terhadap keberlanjutan bisnis dan pertumbuhan jangka panjang. Oleh karena itu, memiliki kemampuan untuk memprediksi perilaku pelanggan menjadi sangat penting--salah satunya adalah dengan memprediksi perilaku "*churn*" pelanggan. *Churn* merupakan istilah yang digunakan untuk menggambarkan keadaan ketika pelanggan atau pengguna berhenti menggunakan produk atau layanan yang ditawarkan oleh suatu perusahaan. Dalam konteks bisnis, *churn* mengacu pada kehilangan pelanggan yang dapat berdampak negatif pada pendapatan dan pertumbuhan perusahaan. 
 
